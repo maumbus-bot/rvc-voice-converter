@@ -19,7 +19,7 @@ A powerful AI-based voice conversion application using Retrieval-based Voice Con
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rvc-voice-converter.git
+git clone https://github.com/maumbus-bot/rvc-voice-converter.git
 cd rvc-voice-converter
 ```
 
@@ -133,8 +133,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Documentation: [docs.rvc-voice-converter.com](https://docs.rvc-voice-converter.com)
-- Issues: [GitHub Issues](https://github.com/yourusername/rvc-voice-converter/issues)
+- Repository: [GitHub](https://github.com/maumbus-bot/rvc-voice-converter)
+- Issues: [GitHub Issues](https://github.com/maumbus-bot/rvc-voice-converter/issues)
 - Discord: [Join our community](https://discord.gg/rvc-voice)
 
 ## Disclaimer
